@@ -387,6 +387,7 @@ header {
 
     .swiper__wrapper {
         flex-wrap: wrap;
+        overflow: hidden;
     }
 
     .swiper::after {
